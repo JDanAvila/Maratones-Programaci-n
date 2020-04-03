@@ -18,7 +18,7 @@
 # PROGRAMMING MARATHONS
 Exercises development in java
 
-| NAME| README |
+| URI | README |
 | ------ | ------ |
 |Exercise 1| [Bob Conduit][LBC] |
 |Exercise 2| [Counting Crow][LCC]|
