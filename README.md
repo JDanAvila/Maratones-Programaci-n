@@ -73,6 +73,30 @@ Exercises development in java
 [LCG]: <https://github.com/JDanAvila/Programming-marathons/tree/master/CombustibleGastado>
 
 ##
+# SORTING ALGORITHMS
+Exercises development in python
+
+| NUMBER| NAME |
+| ------ | ------ |
+|1|[Burbuja][LAB]|
+|2|[Burbuja bidireccional][LABB]|
+|3|[Selección][LAS]|
+|4|[Inseción][LAI]|
+|5|[Quicksort][LAQ]|
+|6|[Shell][LASH]|
+|7|[Gnome][LAG]|
+|8|[Peine][LAP]|
+
+[LASH]: <https://github.com/JDanAvila/Analysis-and-design-of-algorithms/tree/master/AlgoritmosDeOrdenamientoPython/Sell>
+[LABB]: <https://github.com/JDanAvila/Analysis-and-design-of-algorithms/tree/master/AlgoritmosDeOrdenamientoPython/burbuja%20bidireccional%20errores>
+[LAB]: <https://github.com/JDanAvila/Analysis-and-design-of-algorithms/tree/master/AlgoritmosDeOrdenamientoPython/burbuja>
+[LAG]: <https://github.com/JDanAvila/Analysis-and-design-of-algorithms/tree/master/AlgoritmosDeOrdenamientoPython/gnome%20sort%20copy>
+[LAI]: <https://github.com/JDanAvila/Analysis-and-design-of-algorithms/tree/master/AlgoritmosDeOrdenamientoPython/incersion>
+[LAP]: <https://github.com/JDanAvila/Analysis-and-design-of-algorithms/tree/master/AlgoritmosDeOrdenamientoPython/peine%20o%20comb%20sort%20copy>
+[LAQ]: <https://github.com/JDanAvila/Analysis-and-design-of-algorithms/tree/master/AlgoritmosDeOrdenamientoPython/quickshort%20ARR>
+[LAS]: <https://github.com/JDanAvila/Analysis-and-design-of-algorithms/tree/master/AlgoritmosDeOrdenamientoPython/seleccion>
+
+##
 # OTHER PROJECTS
 
 # [Covid19][PC19]
