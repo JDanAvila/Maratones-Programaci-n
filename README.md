@@ -21,21 +21,39 @@ Exercises development in java
 
 | NAME| README |
 | ------ | ------ |
-|Exercise 1| [Bob Conduit][LBC] |
-|Exercise 2| [Counting Crow][LCC]|
-|Exercise 3| [Dijkstra][LD] |
-|Exercise 4| [Exceeding Z][LEZ]|
-|Exercise 5| [Fibonacci][LF] |
-|Exercise 6| [Snack][LS] |
-|Exercise 7| [HoHoHo][LHHH]|
-|Exercise 8| [Internship][LI]|
-|Exercise 9| [Magic And Sword][LMAS]|
-|Exercise 10| [Square Array IV][LSA]|
-|Exercise 11| [Web Browser][LWB]|
-|Exercise 12| [lu-Di-Oh][LLDO]|
-|Exercise 13| [Equilibrio De Parentesis I][LEPI]|
-|Exercise 14| [Hexagonal Tiles][LHT]|
-|Exercise 15| [My Temporary Password][LMTP]|
+|[URI-1017][URI-1017]|[Combustible Gastado][LCG]|
+|[URI-1038][URI-1038]|[Snack][LS]|
+|[URI-1068][URI-1068]|[Equilibrio De Parentesis I][LEPI]|
+|[URI-1150][URI-1150]|[Exceeding Z][LEZ]|
+|[URI-1151][URI-1151]|[Easy Fibonacci][LF]|
+|[URI-1393][URI-1393]|[Hexagonal Tiles][LHT]|
+|[URI-1589][URI-1589]|[Bob Conduit][LBC]|
+|[URI-1759][URI-1759]|[HoHoHo][LHHH]|
+|[URI-1827][URI-1827]|[Square Array IV][LSA]|
+|[URI-1848][URI-1848]|[Counting Crow][LCC]|
+|[URI-2533][URI-2533]|[Internship][LI]|
+|[URI-2542][URI-2542]|[lu-Di-Oh][LLDO]|
+|[URI-2632][URI-2632]|[Magic And Sword][LMAS]|
+|[URI-2635][URI-2635]|[Web Browser][LWB]|
+|[URI-2653][URI-2653]|[Dijkstra][LD]|
+|[URI-2714][URI-2714]|[My Temporary Password][LMTP]|
+
+[URI-1848]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1848>
+[URI-1589]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1589>
+[URI-1759]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1759>
+[URI-2714]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2714>
+[URI-1017]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1017>
+[URI-1393]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1393>
+[URI-1068]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1068>
+[URI-2542]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2542>
+[URI-2635]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2635>
+[URI-1827]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1827>
+[URI-2632]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2632>
+[URI-2533]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2533>
+[URI-1038]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1038>
+[URI-1151]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1151>
+[URI-1150]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1150>
+[URI-2653]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2653>
 
 [LBC]: <https://github.com/JDanAvila/Programming-marathons/tree/master/BobConduit>
 [LCC]: <https://github.com/JDanAvila/Programming-marathons/tree/master/CountingCrow>
@@ -52,6 +70,7 @@ Exercises development in java
 [LEPI]: <https://github.com/JDanAvila/Programming-marathons/tree/master/EquilibrioDeParentesis_I>
 [LHT]: <https://github.com/JDanAvila/Programming-marathons/tree/master/HexagonalTiles>
 [LMTP]: <https://github.com/JDanAvila/Programming-marathons/tree/master/MyTemporaryPassword>
+[LCG]: <https://github.com/JDanAvila/Programming-marathons/tree/master/CombustibleGastado>
 
 ##
 # OTHER PROJECTS
