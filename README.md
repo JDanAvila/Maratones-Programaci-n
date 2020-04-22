@@ -33,19 +33,25 @@ Exercises development in java
 |Exercise 10| [Square Array IV][LSA]|
 |Exercise 11| [Web Browser][LWB]|
 |Exercise 12| [lu-Di-Oh][LLDO]|
+|Exercise 13| [Equilibrio De Parentesis I][LEPI]|
+|Exercise 14| [Hexagonal Tiles][LHT]|
+|Exercise 15| [My Temporary Password][LMTP]|
 
-   [LBC]: <https://github.com/JDanAvila/Programming-marathons/tree/master/BobConduit>
-   [LCC]: <https://github.com/JDanAvila/Programming-marathons/tree/master/CountingCrow>
-   [LD]: <https://github.com/JDanAvila/Programming-marathons/tree/master/Dijkstra>
-  [LEZ]: <https://github.com/JDanAvila/Programming-marathons/tree/master/EjercicioExceedingZ>
-   [LF]: <https://github.com/JDanAvila/Programming-marathons/tree/master/EjercicioFibonacci>
-   [LS]: <https://github.com/JDanAvila/Programming-marathons/tree/master/EjercicioSnack>
-   [LHHH]: <https://github.com/JDanAvila/Programming-marathons/tree/master/HoHoHo>
- [LI]: <https://github.com/JDanAvila/Programming-marathons/tree/master/Internship>
- [LMAS]:<https://github.com/JDanAvila/Programming-marathons/tree/master/MagicAndSword>
- [LSA]:<https://github.com/JDanAvila/Programming-marathons/tree/master/SquareArrayIV>
- [LWB]:<https://github.com/JDanAvila/Programming-marathons/tree/master/WebBrowser>
- [LLDO]:<https://github.com/JDanAvila/Programming-marathons/tree/master/lu-Di-Oh>
+[LBC]: <https://github.com/JDanAvila/Programming-marathons/tree/master/BobConduit>
+[LCC]: <https://github.com/JDanAvila/Programming-marathons/tree/master/CountingCrow>
+[LD]: <https://github.com/JDanAvila/Programming-marathons/tree/master/Dijkstra>
+[LEZ]: <https://github.com/JDanAvila/Programming-marathons/tree/master/EjercicioExceedingZ>
+[LF]: <https://github.com/JDanAvila/Programming-marathons/tree/master/EjercicioFibonacci>
+[LS]: <https://github.com/JDanAvila/Programming-marathons/tree/master/EjercicioSnack>
+[LHHH]: <https://github.com/JDanAvila/Programming-marathons/tree/master/HoHoHo>
+[LI]: <https://github.com/JDanAvila/Programming-marathons/tree/master/Internship>
+[LMAS]: <https://github.com/JDanAvila/Programming-marathons/tree/master/MagicAndSword>
+[LSA]: <https://github.com/JDanAvila/Programming-marathons/tree/master/SquareArrayIV>
+[LWB]: <https://github.com/JDanAvila/Programming-marathons/tree/master/WebBrowser>
+[LLDO]: <https://github.com/JDanAvila/Programming-marathons/tree/master/lu-Di-Oh>
+[LEPI]: <https://github.com/JDanAvila/Programming-marathons/tree/master/EquilibrioDeParentesis_I>
+[LHT]: <https://github.com/JDanAvila/Programming-marathons/tree/master/HexagonalTiles>
+[LMTP]: <https://github.com/JDanAvila/Programming-marathons/tree/master/MyTemporaryPassword>
 
 ##
 # OTHER PROJECTS
